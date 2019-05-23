@@ -1,2 +1,2 @@
-# Mechanical_Principles
-Course work of Mechanical Principles
+# Mechanical Principle
+Course work of Mechanical Principle
